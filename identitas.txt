@@ -1,0 +1,3 @@
+Nama = Fahri Zamzami
+Divisi = Programming
+Sub Divisi = Web Programming
